@@ -4,7 +4,7 @@ This application is a Streamlit-based AI-powered career advisor specialized in e
 
 The app is also deployed in streamlit
 
-visit link : [ChatBotApp](https://growcareer.streamlit.app)
+Visit link : [ChatBotApp](https://growcareer.streamlit.app)
 ---
 
 ## Features
