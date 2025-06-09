@@ -1,8 +1,7 @@
 import os
-import sys
 import streamlit as st
 
-sys.path.append("../")
+# sys.path.append("../")
 from backend.advice_generator import AdviceGenerator
 from backend.conversation_manager import ChatManager
 
